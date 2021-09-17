@@ -1,2 +1,2 @@
 # test-my-teaching-
-Just to learn myself from this application
+I am going to be completely in control of this project
